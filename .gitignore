@@ -1,0 +1,7 @@
+.ipynb_checkpoints/Stress detection-checkpoint.ipynb
+.venv/
+dataset/
+/.jovianrc
+/count_vectorizer.pkl
+/model.pkl
+/Stress detection.ipynb
